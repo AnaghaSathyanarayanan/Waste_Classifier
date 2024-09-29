@@ -22,16 +22,12 @@ Platform: AR is developed using Unity with ARFoundation, enabling real-time over
 - **Backend**: Python, REST API
 - **Deployment**: Docker, MLflow Server
 
----
-
 ## 🛣️ Future Roadmap
 **🔥 Next Steps:**
 
 - Real-Time Waste Detection: Move from static image-based classification to processing live video feeds.
 - Enhanced AR Visualization: Build a polished AR interface for users to scan environments and visualize classification results in real-time.
 - Mobile Integration: Extend the AR functionality to mobile platforms (iOS and Android).
-
----
 
 ## 💡 Project Inspiration
 
