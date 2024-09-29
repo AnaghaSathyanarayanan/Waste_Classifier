@@ -3,11 +3,14 @@
 Welcome to the Real-Time Garbage Classification and Augmented Reality (AR) Data Visualization project! This repository showcases an innovative combination of machine learning, AR, and real-time data interaction to enhance waste management through cutting-edge technology.
 
 ## 🔍 Project Components
+
 **1. 📊 Garbage Classification Model***
 Model: A TensorFlow-based image classification model trained on a dataset of 6 garbage categories: plastic, paper, metal, glass, organic, and others.
 Artifacts: The trained model and saved artifacts are located in the model folder.
+
 **2. 🌐 API & Backend**
 API: Flask/FastAPI-based API that serves the ML model, with model tracking through MLflow.
+
 **3. 🕶️ AR Visualization**
 Platform: AR is developed using Unity with ARFoundation, enabling real-time overlays of classification data on objects detected via camera.
 
