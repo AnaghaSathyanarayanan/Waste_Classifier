@@ -14,8 +14,6 @@ API: Flask/FastAPI-based API that serves the ML model, with model tracking throu
 **3. 🕶️ AR Visualization**
 Platform: AR is developed using Unity with ARFoundation, enabling real-time overlays of classification data on objects detected via camera.
 
----
-
 ## Technology Stack
 
 - **Machine Learning**: TensorFlow, Python
