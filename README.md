@@ -17,10 +17,10 @@ Platform: AR is developed using Unity with ARFoundation, enabling real-time over
 ## Technology Stack
 
 - **Machine Learning**: TensorFlow, Python
-- **Model Serving**: Flask/FastAPI, MLflow
+- **Model Serving**: MLflow
 - **Augmented Reality (AR)**: Unity, C#
 - **Backend**: Python, REST API
-- **Deployment**: Docker, MLflow Server
+- **Deployment**: MLflow Server
 
 ## 🛣️ Future Roadmap
 **🔥 Next Steps:**
